@@ -1,3 +1,5 @@
+package ch2
+
 fun main(args: Array<String>) {
     println("Hello World!")
 
@@ -23,3 +25,4 @@ fun main(args: Array<String>) {
     v = 13                  // 不會發生錯誤
     println("V: " + v)
 }
+
